@@ -1,0 +1,6 @@
+# Project exclude paths
+/eureka-server/target/
+/server-consumer/target/
+/server-consumer-feign/target/
+/server-provied/target/
+/zuul/target/
